@@ -4,5 +4,5 @@
 <br>
 <h2> Foi um dos meus primeiros projetos utilizando HTML e CSS. O resultado foi esse: </h2>
 
-<img src="https://github.com/siqueirafelipe/we-care/blob/master/images/we-care-desktop.png?raw=true" alt="we-care-desktop">
+<img src="https://github.com/siqueirafelipe/We-Care/blob/master/assets/Print%20WeCare.png?raw=true" alt="we-care-desktop">
 
